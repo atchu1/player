@@ -1,0 +1,2 @@
+stringchar=input()
+print(stringchar+".")
